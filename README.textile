@@ -4,6 +4,7 @@ An Arduino Library for the Little Step-U Stepper Motor Controllers
 
 h2. Example
 
+<pre>
  #include <LittleStepU.h>
  #include <NewSoftSerial.h>
  
@@ -50,3 +51,4 @@ h2. Example
  {
    while(1) { }  
  }
+</pre>
